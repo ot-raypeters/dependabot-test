@@ -9,6 +9,6 @@
   "author": "Ray Peters",
   "license": "ISC",
   "dependencies": {
-    "thanos-js": "0.0.10"
+    "thanos-js": "^0.0.10"
   }
 }
