@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ot-raypeters/dependabot-test/issues"
   },
-  "homepage": "https://github.com/ot-raypeters/dependabot-test#readme"
+  "homepage": "https://github.com/ot-raypeters/dependabot-test#readme",
+  "dependencies": {
+    "date-fns": "^2.8.1"
+  }
 }
