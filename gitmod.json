@@ -5,14 +5,14 @@
       "basePath": "/",
       "packageManager": "npm",
 
-      "includeList": [],
-      "excludeList": []
+      "includeList": ["@buffet/*", "*"],
+      "excludeList": ["angular*"]
     },
     {
       "basePath": "/components/second",
       "packageManager": "npm",
 
-      "includeList": [],
+      "includeList": ["*"],
       "excludeList": []
     }
   ]
