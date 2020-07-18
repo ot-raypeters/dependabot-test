@@ -1,6 +1,19 @@
 {
+  "version": 1,
   "projects": [
-    "/",
-    "/components/second"
+    {
+      "basePath": "/",
+      "packageManager": "npm",
+
+      "includeList": [],
+      "excludeList": []
+    },
+    {
+      "basePath": "/components/second",
+      "packageManager": "npm",
+
+      "includeList": [],
+      "excludeList": []
+    }
   ]
 }
