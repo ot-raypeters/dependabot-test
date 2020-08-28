@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ot-raypeters/dependabot-test#readme",
   "dependencies": {
-    "date-fns": "^2.8.1"
+    "date-fns": "^2.16.0"
   }
 }
